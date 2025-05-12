@@ -9,11 +9,11 @@ ms.localizationpriority: high
 
 > [!NOTE]
 >
-> SharePoint Embedded copilot is currently in private preview. Stay tuned for latest API and SDK changes on this page.
+> SharePoint Embedded agent is currently in private preview. Stay tuned for latest API and SDK changes on this page.
 >
-> SPE copilot consumption-based model will be available in May 2025! Starting May 1st, standard billing model will be available to all private preview customers, and this rollout is expected to complete by May 15th. This means that starting May 15th, to use SPE copilot within an SPE application, you will need to use standard Container Type and copilot interactions, including those from Copilot license users, will be billed to the Azure subscription associated with your Container Type. Learn more about [SharePoint Embedded billing management](/sharepoint/dev/embedded/administration/billing/billingmanagement).
+> SPE agent consumption-based model will be available in May 2025! Starting May 1st, standard billing model will be available to all private preview customers, and this rollout is expected to complete by May 15th. This means that starting May 15th, to use SPE agent within an SPE application, you will need to use standard Container Type and copilot interactions, including those from Copilot license users, will be billed to the Azure subscription associated with your Container Type. Learn more about [SharePoint Embedded billing management](/sharepoint/dev/embedded/administration/billing/billingmanagement).
 >
-> We are actively working on enabling Direct-to-Customer billing model for SPE copilot. Stay tuned for more announcements.
+> We are actively working on enabling Direct-to-Customer billing model for SPE agent. Stay tuned for more announcements.
 
 SharePoint Embedded copilot enables you to build Microsoft 365 Copilot functionality into your application through a simple SDK. This copilot chat control offers the following features:
 
