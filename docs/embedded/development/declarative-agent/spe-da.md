@@ -1,7 +1,7 @@
 ---
 title: SharePoint Embedded copilot 
 description: Details copilot integration with SharePoint Embedded applications
-ms.date: 04/30/2025
+ms.date: 05/12/2025
 ms.localizationpriority: high
 ---
 
